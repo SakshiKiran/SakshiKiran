@@ -1,8 +1,8 @@
 Hi, I'm Sakshi! 👋
 
-**👨‍💻 Software developer** with a Master's in Electrical and Computer Engineering from **University of Ottawa**. I specialize in **🛠️ AWS**, **💉 Terraform**, and **🛡️ cloud automation** while building scalable systems and solving complex problems.
+**👨‍💻 Software developer** with a Master's in Electrical and Computer Engineering from **University of Ottawa**. 
 
-### 💖 What I Love:
+### I enjoy:
 - 🤖 Solving challenging problems
 - 📈 Building scalable and efficient systems
 
