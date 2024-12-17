@@ -12,7 +12,7 @@ Hi, I'm Sakshi! 👋
 - 📊 **Data Analysis**
 
 ### 📚 Certifications:
-- 🛠️ **AWS Certified Cloud Practitioner**
+- 🛠️ **AWS Certified Cloud Practitioner** : [DEXKYVP18MQ41S9B](https://aws.amazon.com/verification)
 
 🚀 Let's connect and collaborate to create something amazing! 🌟
 
