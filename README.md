@@ -2,11 +2,11 @@ Hi, I'm Sakshi! 👋
 
 **👨‍💻 Software Developer** with a Master's Degree in Electrical and Computer Engineering from **University of Ottawa**. 
 
-### I enjoy:
+### Working on:
 - 🤖 Solving challenging problems
 - 📈 Building scalable and efficient systems
 
-### 💡 What I'm Interested In:
+### 💡 I'm looking to collaborate on:
 - 💻 **Full-Stack Development**
 - 📁 **Data Engineering**
 - 📊 **Data Analysis**
