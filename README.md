@@ -11,6 +11,9 @@ Hi, I'm Sakshi! 👋
 - 📁 **Data Engineering**
 - 📊 **Data Analysis**
 
+### 📚 Certifications:
+- 🛠️ **AWS Certified Cloud Practitioner**
+
 🚀 Let's connect and collaborate to create something amazing! 🌟
 
 **📧 Email**: [sakshibagurkiran@gmail.com](mailto:sakshibagurkiran@gmail.com)
