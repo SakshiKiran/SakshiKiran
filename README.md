@@ -1,6 +1,6 @@
 Hi, I'm Sakshi! 👋
 
-**👨‍💻 Software developer** with a Master's degree in Electrical and Computer Engineering from **University of Ottawa**. 
+**👨‍💻 Software Developer** with a Master's Degree in Electrical and Computer Engineering from **University of Ottawa**. 
 
 ### I enjoy:
 - 🤖 Solving challenging problems
