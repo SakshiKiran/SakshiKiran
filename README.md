@@ -1,4 +1,19 @@
-## Hi there 👋
+Hi, I'm Sakshi! 👋
+
+**👨‍💻 Software developer** with a Master's in Electrical and Computer Engineering from **University of Ottawa**. I specialize in **🛠️ AWS**, **💉 Terraform**, and **🛡️ cloud automation** while building scalable systems and solving complex problems.
+
+### 💖 What I Love:
+- 🤖 Solving challenging problems
+- 📈 Building scalable and efficient systems
+
+### 💡 What I'm Interested In:
+- 💻 **Full-Stack Development**
+- 📁 **Data Engineering**
+- 📊 **Data Analysis**
+
+🚀 Let's connect and collaborate to create something amazing! 🌟
+
+**📧 Email**: [sakshibagurkiran@gmail.com](mailto:sakshibagurkiran@gmail.com)
 
 <!--
 **SakshiKiran/SakshiKiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
