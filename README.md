@@ -6,7 +6,7 @@ Hi, I'm Sakshi! 👋
 - 🤖 Solving challenging problems
 - 📈 Building scalable and efficient systems
 
-### 💡 I'm looking to collaborate on:
+### 💡 I'm currently sharpening my skills, building interesting projects in the following domains:
 - 💻 **Full-Stack Development**
 - 📁 **Data Engineering**
 - 📊 **Data Analysis**
